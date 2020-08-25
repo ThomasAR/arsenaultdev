@@ -310,7 +310,7 @@ background-color: var(--dark-bg-1);
 }
 
 .portfolioJytus {
-    background-image: url('/resources/jytusbackground.png')
+    background-image: url('resources/jytusbackground.png')
 }
 
 .portfolioSasha {
@@ -318,7 +318,7 @@ background-color: var(--dark-bg-1);
 }
 
 .portfolioJungleHut {
-    background-image: url('/resources/junglehutbackground.png')
+    background-image: url('resources/junglehutbackground.png')
 }
 
 .portfolioKenna {

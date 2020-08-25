@@ -34,7 +34,7 @@
             },
             {
                 "id": "kst",
-                "image": "../resources/kst_logo.png",
+                "image": "resources/kst_logo.png",
                 "title": "Kenna Sleigh Toss",
                 "text": "During an event organized by the Co-op students to show appreciation for the company, a fellow Co-op and I created this game using p5.js and Flask. The game features 160 playable characters from the Kenna Mississauga and Calgary offices. The Flask server was run on a Raspberry Pi to record scores while our co-workers competed in the game. To record scores in the demo, please wait at 30-60 seconds for the Heroku dyno to launch.",
                 "buttons": [
@@ -52,7 +52,7 @@
         "projects": [
             {
                 "id": "hackyourfriends",
-                "image": "/resources/hackyourfriends_logo.png",
+                "image": "resources/hackyourfriends_logo.png",
                 "title": "Hack Your Friends",
                 "text": "Hack Your Friends is a tool that can be used to execute Visual Basic commands on a remote computer. A VBS script is executed on the target, and the user uses a web interface to send commands such as opening applications like Notepad & Chrome, opening the CD drive, reading messages with text to speech, and more. A demo will be available soon.",
                 "buttons": [
@@ -61,7 +61,7 @@
             },
             {
                 "id": "strongguy",
-                "image": "/resources/strongguy_logo.png",
+                "image": "resources/strongguy_logo.png",
                 "title": "strongguy.ca",
                 "text": "StrongGuy.ca is a website made to \"poke fun\" at my friend's addiction to the gym. Mostly involves inside jokes and poorly-done photoshops. This website is fully mobile responsive (because why not?)",
                 "buttons": [
@@ -118,7 +118,7 @@
             },
             {
                 "id": "jytus",
-                "image": "/resources/jytuslogo.png",
+                "image": "resources/jytuslogo.png",
                 "title": "Jytus Online",
                 "text": "Jytus (AKA Seth) is a professional player of Tom Clancy's Rainbow Six Seige. He runs a YouTube channel with ~60,000 subscribers and a total of 8,400,000+ views. Jytus has been competing in international tournaments for the last few years while producing high quality content for his channel. He wanted to have a website for his fans to view information about him and his online presence, as well as run an affiliate marketing campaign through Gleam.<br />The website is temporarily down, but a demo is available on my GitHub.",
                 "buttons": [
