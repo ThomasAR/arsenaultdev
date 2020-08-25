@@ -56,7 +56,7 @@ let constructPortfolio = (sections) => {
 
 $(document).ready(function() {
 
-    $.getJSON("/data/portfolio.json", function(json){
+    $.getJSON("data/portfolio.json", function(json){
         console.log(json);
         console.log(constructPortfolio(json))
         $("#portfolio-placeholder").html(constructPortfolio(json));
