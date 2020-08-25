@@ -3,12 +3,14 @@
 
 .mainNavbar {
     width: 100%;
-    background-color: var(--light-blue-1);
+    background-color: var(--dark-bg-3);
+    /* background-color: var(--dark-bg-2); */
     z-index: 100;
     transition: 0.5s ease;
     font-weight: 200;   
     font-size: 4vh;
     position: fixed;
+    box-shadow: 0 0 10px var(--dark-bg-3);
 }
 
 .homeNavbar {

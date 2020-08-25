@@ -1,0 +1,61 @@
+.skills {
+    padding: 20px;
+    margin: 0px 50px 50px;
+    background-color: var(--dark-bg-3);
+}
+
+.skills-wrapper {
+    background-color: var(--dark-bg-2);
+    border-radius: 4px;
+}
+.skills-container {
+    padding: 20px 0px 30px;
+}
+
+.skills-container .skills-title {
+    padding: 10px 10px 20px 10px;
+    font-size: 24px;
+    text-align: center;
+}
+
+.skills-container .skills-tech {
+    text-align: center;
+    padding: 0 20px;
+}
+.skills-container img {
+    height: 50px;
+    padding: 5px;
+}
+
+.online-learning {
+    padding: 20px;
+    margin: 0px 50px 50px;
+    background-color: var(--dark-bg-2);
+    border-radius: 4px;
+}
+
+.online-learning .online-learning-title {
+    text-align: center;
+    width: 100%;
+    font-size: 24px;
+    margin: 10px;
+}
+
+.online-learning .online-course {
+    background-color: var(--dark-bg-1);
+    border-radius: 4px;
+    margin: 10px;
+    padding: 10px;
+    padding-left: 20px;
+    color: white;
+    transition: .2s;
+}
+
+.online-learning .online-course:hover {
+    background-color: var(--dark-bg-3);
+
+}
+
+.online-learning .online-course img {
+    height: 50px;
+}

@@ -1,0 +1,138 @@
+[
+    {
+        "sectionName": "Kenna Communications / BASF",
+        "projects": [
+            {
+                "id": "basf",
+                "image": "https://logo-logos.com/wp-content/uploads/2016/11/BASF_logo_green.png",
+                "title": "DST / APT Public Site",
+                "text": "The Demonstration Strip Trials (DST) and AgSolution Performance Trials (APT) public sites were developed to display the hundreds of trials ran by BASF demonstrating the superior results of InVigor and BASF hybrids. The website has integrated marketing automation capabilities, tracking users accessing the website from certain links.",
+                "buttons": [
+                    {
+                        "title": "DST Public Site",
+                        "link": "https://agro.basf.ca/trial_results"
+                    },
+                    {
+                        "title": "APT Public Site",
+                        "link": "https://agro.basf.ca/trial_results"
+                    }
+                ],
+                "tech": ["reactjs", "sql", "nodejs"]
+            },
+            {
+                "id": "kenna",
+                "image": "https://media.glassdoor.com/sqll/322766/kenna-technologies-squarelogo-1445857275825.png",
+                "title": "Kenna Employee Directory",
+                "text": "I was the Team Lead for the first-place team of the Kenna 2019 corporate hackathon. For our project, we developed an Atlassian/Confluence-integrated internal employee directory featuring the Microsoft Graph API to connect to the company's Outlook network. The app provides functionality to view all information about employees including calendar and seating information, as well as view and book meeting rooms.",
+                "buttons": [
+                    {
+                        "title": "View Pictures",
+                        "link": "#"
+                    }
+                ],
+                "tech": ["reactjs", "sql", "nodejs"]
+            },
+            {
+                "id": "kst",
+                "image": "../resources/kst_logo.png",
+                "title": "Kenna Sleigh Toss",
+                "text": "During an event organized by the Co-op students to show appreciation for the company, a fellow Co-op and I created this game using p5.js and Flask. The game features 160 playable characters from the Kenna Mississauga and Calgary offices. The Flask server was run on a Raspberry Pi to record scores while our co-workers competed in the game. To record scores in the demo, please wait at 30-60 seconds for the Heroku dyno to launch.",
+                "buttons": [
+                    {
+                        "title": "Play Game",
+                        "link": "https://thomasar.github.io/kenna_sleigh_toss/src/index.html"
+                    }
+                ],
+                "tech": ["jquery", "python", "heroku"]
+            }
+        ]
+    },
+    {
+        "sectionName": "Side Projects",
+        "projects": [
+            {
+                "id": "hackyourfriends",
+                "image": "/resources/hackyourfriends_logo.png",
+                "title": "Hack Your Friends",
+                "text": "Hack Your Friends is a tool that can be used to execute Visual Basic commands on a remote computer. A VBS script is executed on the target, and the user uses a web interface to send commands such as opening applications like Notepad & Chrome, opening the CD drive, reading messages with text to speech, and more. A demo will be available soon.",
+                "buttons": [
+                ],
+                "tech": ["reactjs", "nodejs", "firebase"]
+            },
+            {
+                "id": "strongguy",
+                "image": "/resources/strongguy_logo.png",
+                "title": "strongguy.ca",
+                "text": "StrongGuy.ca is a website made to \"poke fun\" at my friend's addiction to the gym. Mostly involves inside jokes and poorly-done photoshops. This website is fully mobile responsive (because why not?)",
+                "buttons": [
+                    {
+                        "title": "strongguy.ca",
+                        "link": "http://strongguy.ca"
+                    }
+                ],
+                "tech": ["jquery", "htmlcss", "bootstrap"]
+            },
+            {
+                "id": "nextbus",
+                "image": "https://cdn.worldvectorlogo.com/logos/flutter-logo.svg",
+                "title": "NextBus",
+                "text": "NextBus is a mobile application I developed to help my friends and I schedule the use of the Guelph Transit System. There are multiple buses that travel between the University of Guelph and our house, so this app helps figure out which bus is coming next (as well as the schedule for every bus).",
+                "buttons": [
+                    {
+                        "title": "View on GitHub",
+                        "link": "https://github.com/ThomasAR/next-bus"
+                    }
+                ],
+                "tech": ["dart", "flutter"]
+            }
+        ]
+    },
+    {
+        "sectionName": "Freelance Web Development",
+        "projects": [
+            {
+                "id": "junglehut",
+                "image": "https://static.wixstatic.com/media/cca5de_a9f327a6b8d84dbbbedc292e4592da87~mv2.png/v1/fill/w_177,h_120,al_c,q_85,usm_0.66_1.00_0.01/Logo.webp",
+                "title": "Jungle Hut Entertainment",
+                "text": "Jungle Hut Entertainment Center is the largest indoor entertainment center in Hamilton. This website is being built to help customers with a more modern display of party, admission, and booking information. Development has been stopped until further notice, but a demo is available to see.",
+                "buttons": [
+                    {
+                        "title": "View Demo",
+                        "link": "#"
+                    }
+                ],
+                "tech": ["jquery", "htmlcss", "bootstrap"]
+            },
+            {
+                "id": "sasha",
+                "image": "http://sashabjelic.com/assets/SB_LOGO_MAIN.png",
+                "title": "Sasha Bjelic Portfolio",
+                "text": "Sasha Bjelic is an up-and-coming independant artist with a portfolio involving sports highlights, animation, and comedy. This website was built with creative direction from Sasha himself, who wanted a clean and minilmalist website to showcase his portfolio.",
+                "buttons": [
+                    {
+                        "title": "sashabjelic.com",
+                        "link": "http://sashabjelic.com"
+                    }
+                ],
+                "tech": ["jquery", "htmlcss", "bootstrap"]
+            },
+            {
+                "id": "jytus",
+                "image": "/resources/jytuslogo.png",
+                "title": "Jytus Online",
+                "text": "Jytus (AKA Seth) is a professional player of Tom Clancy's Rainbow Six Seige. He runs a YouTube channel with ~60,000 subscribers and a total of 8,400,000+ views. Jytus has been competing in international tournaments for the last few years while producing high quality content for his channel. He wanted to have a website for his fans to view information about him and his online presence, as well as run an affiliate marketing campaign through Gleam.<br />The website is temporarily down, but a demo is available on my GitHub.",
+                "buttons": [
+                    {
+                        "title": "jytus.net",
+                        "link": "https://thomasar.github.io/jytus"
+                    },
+                    {
+                        "title": "Jytus YouTube",
+                        "link": "https://www.youtube.com/channel/UCyGpRnHSOw0p56hevClKE9w"
+                    }
+                ],
+                "tech": ["jquery", "htmlcss", "bootstrap"]
+            }
+        ]
+    }
+]
