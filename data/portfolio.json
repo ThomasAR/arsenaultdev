@@ -60,6 +60,15 @@
                 "tech": ["reactjs", "nodejs", "firebase"]
             },
             {
+                "id": "robotbuilder",
+                "image": "resources/robot_builder_logo.png",
+                "title": "Robot Builder",
+                "text": "Robot Builder is a React application to make a basic conversational AI. Using custom MP3 files of words or phrases, a user can construct sentences to respond to speech commands in the browser.",
+                "buttons": [
+                ],
+                "tech": ["reactjs"]
+            },
+            {
                 "id": "strongguy",
                 "image": "resources/strongguy_logo.png",
                 "title": "strongguy.ca",

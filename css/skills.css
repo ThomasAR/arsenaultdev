@@ -59,3 +59,12 @@
 .online-learning .online-course img {
     height: 50px;
 }
+
+.online-learning .online-course .online-course-container {
+    align-items: center;
+}
+
+.online-learning .course-title {
+    height: auto;
+    margin: 0px 10px;
+}
