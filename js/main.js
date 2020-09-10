@@ -16,7 +16,6 @@ $(document).ready(function() {
         .setClassToggle("#about-me-bio", "invisible")
         .addTo(controller)
 
-    console.log(controller)
 })
 
 $(window).scroll(function(e){ 

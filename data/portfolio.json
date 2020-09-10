@@ -14,7 +14,7 @@
                     },
                     {
                         "title": "APT Public Site",
-                        "link": "https://agro.basf.ca/trial_results"
+                        "link": "https://agro.basf.ca/trial_results/?&t=APT&r=west&page=home"
                     }
                 ],
                 "tech": ["reactjs", "sql", "nodejs"]
