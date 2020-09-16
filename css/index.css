@@ -74,6 +74,26 @@ background-color: var(--dark-bg-1);
     font-size: 18px;
 }
 
+.about-me-bio .about-me-button {
+    background-color: var(--dark-bg-2);
+    padding: 10px;
+    margin: 30px;
+    color: white;
+    border-radius: 4px;
+    text-align: center;
+    transition: 0.4s;
+}
+.about-me-bio .about-me-button {
+    text-decoration: none;
+    color: white;
+}
+
+.about-me-bio .about-me-button:hover {
+    background-color: var(--dark-bg-1);
+    cursor: pointer;
+    color: white;
+}
+
 .mountains {
     background-image: url('../resources/MtWashington.png');
     width: 100%;
