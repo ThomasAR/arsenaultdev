@@ -1,5 +1,5 @@
 $(document).ready(function() {
-    $("#navbarPlaceholder").load("navbar/navbar.html");
+    $("#navbarPlaceholder").load("../navbar/navbar.html");
 
     var controller = new ScrollMagic.Controller(
         {
